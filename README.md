@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 <h1 align = "center"> Oii! eu sou a Julia Rodrigues </h1>
 
-<div>
+<div align = "center">
   <a href ="https://github.com/RJjulia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RJjulia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJjulia&layout=compact&langs_count=16&theme=dracula"/>
