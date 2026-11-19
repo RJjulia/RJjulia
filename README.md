@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-<h1 align="center">Oii! eu sei a Julia Rodrigues</h1>
+<h1 align="center">Oii! eu sou a Julia Rodrigues</h1>
 
 <p align="center">
   <img alt="Julia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
