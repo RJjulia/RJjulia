@@ -10,3 +10,10 @@
   <a href="https://www.linkedin.com/in/julia-rodrigues25" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RJjulia/RJjulia/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RJjulia/RJjulia/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/RJjulia/RJjulia/output/snake.svg">
+</picture>
